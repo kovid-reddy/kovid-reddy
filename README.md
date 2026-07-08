@@ -193,8 +193,8 @@ Hand gesture based mouse controller using
 
 # 📫 Let's Connect
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/kovid-reddy-kontham-13407b291/
+- 📧 Email: kovidreddykontham@gmail.com
 
 ---
 
