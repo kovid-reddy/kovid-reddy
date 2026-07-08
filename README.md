@@ -104,7 +104,6 @@ Control your computer using hand gestures powered by MediaPipe & OpenCV.
 ## ☁️ AWS DevOps
 
 Hands-on AWS, Docker, Linux and CI/CD learning projects.
-
 <br>
 
 <a href="https://github.com/kovid-reddy/aws-devops-learning">
@@ -121,17 +120,12 @@ Hands-on AWS, Docker, Linux and CI/CD learning projects.
 ## 📊 GitHub Overview
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kovid-reddy&theme=github_dark"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kovid-reddy&theme=github_dark"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kovid-reddy&theme=github_dark"/>
-
 </p>
 
 ---
@@ -139,9 +133,7 @@ Hands-on AWS, Docker, Linux and CI/CD learning projects.
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kovid-reddy&theme=github-dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=kovid-reddy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
