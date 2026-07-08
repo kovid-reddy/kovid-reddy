@@ -147,9 +147,8 @@ Hand gesture based mouse controller using
 
 ---
 
-# 📊 GitHub Stats
 
-## 📊 GitHub Overview
+# 📊 GitHub Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kovid-reddy&theme=github_dark"/>
