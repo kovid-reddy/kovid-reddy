@@ -101,12 +101,12 @@ Control your computer using hand gestures powered by MediaPipe & OpenCV.
 
 <td width="50%" valign="top">
 
-## ☁️ AWS DevOps
+## 📖 cyber-security-roadmap
 
-Hands-on AWS, Docker, Linux and CI/CD learning projects.
+A Roadmap on how internet works
 <br>
 
-<a href="https://github.com/kovid-reddy/aws-devops-learning">
+<a href="https://github.com/kovid-reddy/cyber-security-roadmap">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
