@@ -61,7 +61,7 @@ Security-focused web application vulnerability scanner based on the OWASP Top 10
 
 <br>
 
-<a href="https://github.com/kovid-reddy/vulnerability-scanner">
+<a href="https://github.com/kovid-reddy/WebScore-OWASP-Top-10-Security-Scanner">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -75,7 +75,7 @@ Encrypted browser-to-browser file transfer using WebRTC.
 
 <br>
 
-<a href="https://github.com/kovid-reddy/p2p-file-sharing">
+<a href="https://github.com/kovid-reddy/P2P_Coms/tree/main">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -93,7 +93,7 @@ Control your computer using hand gestures powered by MediaPipe & OpenCV.
 
 <br>
 
-<a href="https://github.com/kovid-reddy/gesture-mouse-control">
+<a href="https://github.com/kovid-reddy/Guesture-mause">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
